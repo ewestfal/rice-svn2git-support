@@ -90,6 +90,7 @@ malviyas = Saurabh Malviya <malviyas@umail.iu.edu>
 masargen = <masargen@kuali.org>
 matthew.wuertz = Matthew Wuertz <matthew.wuertz@gmail.com>
 mcalhoun = Michael Calhoun <jmcalhoun@live.com>
+mfitzwater = Matt Fitzwater <mfitzwater@kuali.org>
 mmodi = Mayank Modi <mmodi@vivantech.com>
 mpham = Mike Pham <mpham@ais-rnaa2000.usc.edu>
 muralidharan = Sinduja Muralidharan <muralidharan.6@osu.edu>
